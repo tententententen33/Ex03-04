@@ -1,6 +1,6 @@
 public class StrSubstringError {
 	public static void main(String[] args) {
-		String str = "WINGS プロジェクト";
+//		String str = "WINGS プロジェクト";
 
 		// System.out.println(str.substring(5, 2)); 
 		// System.out.println(str.substring(-1)); 
